@@ -14,4 +14,4 @@
 ## Дополнительные материалы:
 Документация - https://developer.mozilla.org/ru/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout  
 Тренажер Grid Garden - https://cssgridgarden.com/  
-Видео - 
+Видео - https://youtube.com/shorts/S0tAH_QAYnU?feature=share
