@@ -1,13 +1,17 @@
-# Практика: createPortal
+# CSS Grid | Frontend Advent #2
 
-## Задачи:
+## Задача:
+Ваша задача — Сверстать фотоколлаж из картинок, приведенных в папке images.
 
-Переписать компонент Modal так, чтобы в нём использовалась функция createPortal 
+## Как выполнить задание:
+Допишите недостающие свойства в файле styles.css.
+Какие строки и столбцы объединить — на ваше усмотрение.
 
-## Материалы:
-Документация - https://react.dev/reference/react-dom/createPortal  
-Видео - https://youtube.com/shorts/3Pvr6smC-V8
 
-## Запуск проекта:
-* `npm i` - установка библиотек
-* `npm run dev` - сборка для разработки
+## Как проверить результат:
+Откройте файл index.html в браузере, и сравните с фотоколлажем из видео.
+
+## Дополнительные материалы:
+Документация - https://developer.mozilla.org/ru/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout  
+Тренажер Grid Garden - https://cssgridgarden.com/
+Видео - 
