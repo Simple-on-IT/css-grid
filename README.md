@@ -1,7 +1,7 @@
 # CSS Grid | Frontend Advent #2
 
 ## Задача:
-Ваша задача — Сверстать фотоколлаж из картинок, приведенных в папке images.
+Ваша задача — сверстать фотоколлаж из картинок, приведенных в папке images.
 
 ## Как выполнить задание:
 Допишите недостающие свойства в файле styles.css.
@@ -13,5 +13,5 @@
 
 ## Дополнительные материалы:
 Документация - https://developer.mozilla.org/ru/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout  
-Тренажер Grid Garden - https://cssgridgarden.com/
+Тренажер Grid Garden - https://cssgridgarden.com/  
 Видео - 
